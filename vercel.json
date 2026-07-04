@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/realities-image-with-ai-watermark/:path*",
-      "destination": "https://realities-image-with-ai-watermark.vercel.app/realities-image-with-ai-watermark/:path*"
-    }
-  ]
-}
