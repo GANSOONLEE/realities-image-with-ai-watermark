@@ -21,8 +21,4 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/realities-image-with-ai-watermark/",
-  build: {
-    outDir: "docs",
-  },
 });
