@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/realities-image-with-ai-watermark/:path*",
-      "destination": "https://你的浮水印專案-vercel-網址.vercel.app/realities-image-with-ai-watermark/:path*"
+      "destination": "https://realities-image-with-ai-watermark.vercel.app/realities-image-with-ai-watermark/:path*"
     }
   ]
 }
